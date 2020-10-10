@@ -50,36 +50,4 @@ function linkAction(){
 navLink.forEach(n => n.addEventListener('click', linkAction));
 
 
-// /*===== SCROLL REVEAL ANIMATION =====*/
-// const sr = ScrollReveal({
-//     origin: 'top',
-//     distance: '80px',
-//     duration: 2000,
-//     reset: true
-// });
 
-// /*SCROLL HOME*/
-// sr.reveal('.header nav .left',{}); 
-// sr.reveal('.hero .left img',{delay: 200}); 
-// sr.reveal('.hero .right',{delay: 400}); 
-// sr.reveal('.btn-primary',{ interval: 200}); 
-// sr.reveal('.btn-secondary',{ interval: 200}); 
-// sr.reveal('header nav',{ interval: 200}); 
-
-
-// /*SCROLL ABOUT*/
-// sr.reveal('.about__img',{}); 
-// sr.reveal('.about__subtitle',{delay: 400}); 
-// sr.reveal('.about__text',{delay: 400}); 
-
-// /*SCROLL SKILLS*/
-// sr.reveal('.skills__subtitle',{}); 
-// sr.reveal('.skills__text',{}); 
-// sr.reveal('.skills__data',{interval: 200}); 
-// sr.reveal('.skills__img',{delay: 600});
-
-// /*SCROLL WORK*/
-// sr.reveal('.work__img',{interval: 200}); 
-
-// /*SCROLL CONTACT*/
-// sr.reveal('.contact__input',{interval: 200}); 

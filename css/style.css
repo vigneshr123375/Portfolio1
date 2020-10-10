@@ -590,6 +590,18 @@ footer .footer-socials i:hover{
         grid-template-columns: repeat(1, 1fr);
     }
 }
+@media (max-width:411px){
+    .hero .left img{
+        width: 180px;
+       
+       
+       
+    }
+    .hero .left{
+        padding-top:1rem;
+       margin-bottom: 8rem;
+     }
+}
 
 @media (max-width:365px){
     .hero .left img{
