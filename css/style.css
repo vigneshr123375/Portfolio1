@@ -596,10 +596,16 @@ footer .footer-socials i:hover{
        
        
        
+       
+    }
+    .hero .right h6{
+        margin-top: 1.5rem;
     }
     .hero .left{
         padding-top:1rem;
        margin-bottom: 8rem;
+       margin-right: -11rem;
+      
      }
 }
 
@@ -612,7 +618,9 @@ footer .footer-socials i:hover{
     }
     .hero .left{
        padding-top:1rem;
-      margin-bottom: 8rem;
+      margin-bottom: 7.3rem;
+     
+      
     }
     .hero .right h1{
         font-size: 1.6rem;
@@ -627,6 +635,12 @@ footer .footer-socials i:hover{
            
            
         }
+        .hero .left{
+            padding-top:1rem;
+           margin-bottom: 10rem;
+           margin-right: -10rem;
+          
+         }
         .hero .right h1{
             font-size: 1.4rem;
         }
